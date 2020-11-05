@@ -1,2 +1,2 @@
 # react-random-user-self
-Created with CodeSandbox
+[Live Demo](https://csb-p20us.netlify.app/)
